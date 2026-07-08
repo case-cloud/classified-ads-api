@@ -1,6 +1,6 @@
 # Classified Ads API
 
-REST API для доски объявлений (типа Avito) на FastAPI.
+REST API для доски объявлений на FastAPI.
 
 ## Что это
 
